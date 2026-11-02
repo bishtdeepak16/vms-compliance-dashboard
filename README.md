@@ -157,50 +157,47 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-1.png" alt="Weekly report page 1">
-      <br><sub><b>Summary, KPIs and FC scorecard</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-2.png" alt="Weekly report page 2">
-      <br><sub><b>Week-on-week: outbound</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-3.png" alt="Weekly report page 3">
-      <br><sub><b>Week-on-week: outbound and returns</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-4.png" alt="Weekly report page 4">
-      <br><sub><b>Returns detail and needs-attention list</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-5.png" alt="Weekly report page 5">
-      <br><sub><b>Trends: week-on-week and month-to-date</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="Weekly AI Automated Report/weekly-report-page-6.png" alt="Weekly report page 6">
-      <br><sub><b>FC heatmap and legend</b></sub>
-    </td>
-  </tr>
-</table>
+[**Download full report (PDF)**](Weekly%20AI%20Automated%20Report/Weekly_AI_Report_Sample.pdf) &nbsp;·&nbsp;
+[**Open as HTML email**](https://bishtdeepak16.github.io/vms-compliance-dashboard/report-sample-admin.html)
 
 <br>
 
-[**Download full report (PDF)**](/Weekly_AI_Report_Sample.pdf) &nbsp;·&nbsp;
-[**Open as HTML email**](https://bishtdeepak16.github.io/vms-compliance-dashboard/report-sample-admin.html)
+**Page 1 of 6 · Summary, KPIs and FC scorecard**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-1.png" width="75%" alt="Weekly report page 1">
+
+<br><br>
+
+**Page 2 of 6**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-2.png" width="75%" alt="Weekly report page 2">
+
+<br><br>
+
+**Page 3 of 6**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-3.png" width="75%" alt="Weekly report page 3">
+
+<br><br>
+
+**Page 4 of 6**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-4.png" width="75%" alt="Weekly report page 4">
+
+<br><br>
+
+**Page 5 of 6**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-5.png" width="75%" alt="Weekly report page 5">
+
+<br><br>
+
+**Page 6 of 6**
+
+<img src="Weekly%20AI%20Automated%20Report/weekly-report-page-6.png" width="75%" alt="Weekly report page 6">
+
+<br>
 
 <sub>Sample built from synthetic data.</sub>
 
-</div>
-</div>
-
----
-
-## About the live demo
-`mock.js` replaces the private Apps Script and BigQuery backend with a synthetic data generator that returns the same response shapes, so the real front-end runs unchanged as a static page. No login or backend is needed.
+</div>as a static page. No login or backend is needed.
