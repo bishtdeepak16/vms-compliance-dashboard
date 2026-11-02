@@ -36,23 +36,122 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
 ### Production dashboard (real UI)
 _Client names, shipment IDs and sensitive figures are masked._
 
-### Outbound compliance
-![Outbound overview](dashboard%20images/Dashbaord%20Outbound%20page%20image%201.png)
-![Outbound FC drill-down](dashboard%20images/Dashbaord%20Outbound%20page%20image%202.png)
-![Outbound detail](dashboard%20images/Dashbaord%20Outbound%20page%20image%203.png)
 
-### Returns compliance
-![Returns overview](dashboard%20images/Dashbaord%20Return%20page%20image%201.png)
-![Returns FC drill-down](dashboard%20images/Dashbaord%20Return%20page%20image%202.png)
-![Returns detail](dashboard%20images/Dashbaord%20Return%20page%20image%203.png)
 
-### Trends and comparisons
-![Monthly trend](dashboard%20images/Dashbaord%20image%20-%20Monthly%20Trend.png)
-![Week on week comparison](dashboard%20images/Dashboard%20Week%20on%20Week%20Comparision.png)
+<br>
 
-### Client view
-![Client view, outbound](dashboard%20images/Dashboard%20image%20-%20Client%20View%20OB.png)
-![Client view, returns](dashboard%20images/Dashboard%20image%20-%20Client%20View%20Returns.png)
+<h3 align="center">📦 &nbsp;Outbound Compliance</h3>
+<p align="center"><sub>Daily dispatch compliance across FCs and clients</sub></p>
 
-### Weekly AI email
+<br>
+
+<p align="center">
+  <img src="screenshots/outbound-1.png" width="92%" alt="Outbound overview">
+  <br><br>
+  <b>Overview</b> · KPIs, daily trend, FC summary
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="screenshots/outbound-2.png" width="92%" alt="Outbound FC drill-down">
+  <br><br>
+  <b>FC → Client drill-down</b>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="screenshots/outbound-3.png" width="92%" alt="Outbound detail">
+  <br><br>
+  <b>Detail view</b>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">↩️ &nbsp;Returns Compliance</h3>
+<p align="center"><sub>Return QC video-scan compliance across FCs and clients</sub></p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/returns-1.png" width="92%" alt="Returns overview">
+  <br><br>
+  <b>Overview</b> · KPIs, daily trend, FC summary
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="screenshots/returns-2.png" width="92%" alt="Returns FC drill-down">
+  <br><br>
+  <b>FC → Client drill-down</b>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="screenshots/returns-3.png" width="92%" alt="Returns detail">
+  <br><br>
+  <b>Detail view</b>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">📈 &nbsp;Trends &amp; Comparisons</h3>
+<p align="center"><sub>Is compliance improving week on week and month on month?</sub></p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/monthly-trend.png" width="92%" alt="Monthly trend">
+  <br><br>
+  <b>Monthly trend</b>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="screenshots/week-on-week.png" width="92%" alt="Week on week comparison">
+  <br><br>
+  <b>Week-on-week comparison</b>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">👥 &nbsp;Client View</h3>
+<p align="center"><sub>What each client sees for their own shipments</sub></p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/client-view-outbound.png" alt="Client view outbound">
+      <br><br>
+      <b>Outbound</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/client-view-returns.png" alt="Client view returns">
+      <br><br>
+      <b>Returns</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
 ![Weekly email](docs/weekly-email.png)
