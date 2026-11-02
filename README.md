@@ -170,21 +170,21 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-3.png" alt="Weekly report page 3">
+      <img src="Weekly AI Automated Report/weekly-report-page-3.png" alt="Weekly report page 3">
       <br><sub><b>Week-on-week: outbound and returns</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-4.png" alt="Weekly report page 4">
+      <img src="Weekly AI Automated Report/weekly-report-page-4.png" alt="Weekly report page 4">
       <br><sub><b>Returns detail and needs-attention list</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-5.png" alt="Weekly report page 5">
+      <img src="Weekly AI Automated Report/weekly-report-page-5.png" alt="Weekly report page 5">
       <br><sub><b>Trends: week-on-week and month-to-date</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-6.png" alt="Weekly report page 6">
+      <img src="Weekly AI Automated Report/weekly-report-page-6.png" alt="Weekly report page 6">
       <br><sub><b>FC heatmap and legend</b></sub>
     </td>
   </tr>
@@ -192,7 +192,7 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
 
 <br>
 
-[**Download full report (PDF)**](weekly-report/Weekly_AI_Report_Sample.pdf) &nbsp;·&nbsp;
+[**Download full report (PDF)**](/Weekly_AI_Report_Sample.pdf) &nbsp;·&nbsp;
 [**Open as HTML email**](https://bishtdeepak16.github.io/vms-compliance-dashboard/report-sample-admin.html)
 
 <sub>Sample built from synthetic data.</sub>
