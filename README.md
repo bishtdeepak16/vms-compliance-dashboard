@@ -160,11 +160,11 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-1.png" alt="Weekly report page 1">
+      <img src="Weekly AI Automated Report/weekly-report-page-1.png" alt="Weekly report page 1">
       <br><sub><b>Summary, KPIs and FC scorecard</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="weekly-report/weekly-report-page-2.png" alt="Weekly report page 2">
+      <img src="Weekly AI Automated Report/weekly-report-page-2.png" alt="Weekly report page 2">
       <br><sub><b>Week-on-week: outbound</b></sub>
     </td>
   </tr>
