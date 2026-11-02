@@ -10,8 +10,6 @@
 
 [**▶ Live Demo**](https://bishtdeepak16.github.io/vms-compliance-dashboard/) &nbsp;·&nbsp;
 [**Architecture**](https://bishtdeepak16.github.io/vms-compliance-dashboard/architecture.html) &nbsp;·&nbsp;
-[**Leadership email**](https://bishtdeepak16.github.io/vms-compliance-dashboard/report-sample-admin.html) &nbsp;·&nbsp;
-[**FC email**](https://bishtdeepak16.github.io/vms-compliance-dashboard/report-sample-fc.html)
 
 </div>
 
