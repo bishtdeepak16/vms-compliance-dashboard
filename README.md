@@ -49,7 +49,7 @@ _Client names, shipment IDs and sensitive figures are masked._
 
 <br><br>
 
-<p align="center"> <img src="dashboard%20images/outbound-3.png" width="92%" alt="Outbound detail"> <br><br> <b>Detail view</b> </p> <br>
+<p align="center"> <img src="dashboard%20images/outbound-3.png" width="92%" alt="Outbound detail"> <br><br> <b>Visualization</b> </p> <br>
 <br> <h3 align="center">↩️ &nbsp;Returns Compliance</h3> <p align="center"><sub>Return QC video-scan compliance across FCs and clients</sub></p> <br> <p align="center"> <img src="dashboard%20images/returns-1.png" width="92%" alt="Returns overview"> <br><br> <b>Overview</b> · KPIs, daily trend, FC summary </p>
 
 <br><br>
@@ -58,7 +58,7 @@ _Client names, shipment IDs and sensitive figures are masked._
 
 <br><br>
 
-<p align="center"> <img src="dashboard%20images/returns-3.png" width="92%" alt="Returns detail"> <br><br> <b>Detail view</b> </p> <br>
+<p align="center"> <img src="dashboard%20images/returns-3.png" width="92%" alt="Returns detail"> <br><br> <b>Visualization</b> </p> <br>
 <br> <h3 align="center">📈 &nbsp;Trends &amp; Comparisons</h3> <p align="center"><sub>Is compliance improving week on week and month on month?</sub></p> <br> <p align="center"> <img src="dashboard%20images/monthly-trend.png" width="92%" alt="Monthly trend"> <br><br> <b>Monthly trend</b> </p>
 
 <br><br>
