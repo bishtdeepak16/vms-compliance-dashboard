@@ -12,6 +12,11 @@ Every outbound shipment and every return must be video-scanned during packing/QC
 - Which FC and which client is weak, and is it improving week-on-week or month-on-month?
 - Where should the team audit first?
 
+## Architecture
+![End-to-end architecture](docs/architecture-flow.png)
+
+Full interactive version with object reference: `architecture.html` (open via the GitHub Pages link).
+
 ## Highlights
 - **Multi-tenant data pipeline:** daily automated ingestion from several warehouse-management tenants (30+ facilities), marketplace scan portals and a returns database into Cloud Storage → BigQuery.
 - **SQL-heavy BigQuery modelling:** raw → flat → enriched layers, AWB-level joins, mapping tables (facility / channel / client) and business rules, producing two date-partitioned compliance tables.
