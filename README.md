@@ -13,7 +13,7 @@ Every outbound shipment and every return must be video-scanned during packing/QC
 - Where should the team audit first?
 
 ## Architecture
-![End-to-end architecture](docs/architecture-flow.png)
+![End-to-end architecture](Project%20Architecture%20Diagram/architecture-flow.png)
 
 Full interactive version with object reference: `architecture.html` (open via the GitHub Pages link).
 
