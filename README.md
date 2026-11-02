@@ -1,4 +1,4 @@
-# VMS Compliance Dashboard — Demo
+# VMS Compliance Dashboard — Architecture & Demo
 
 A **demo version** of a video-scan (VMS) compliance dashboard and automated weekly report that I designed and built end to end for a multi-city warehousing and fulfillment operation.
 
