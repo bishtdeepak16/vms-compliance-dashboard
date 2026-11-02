@@ -36,13 +36,23 @@ BigQuery (SQL) · Google Cloud Storage · Google Apps Script · Supabase · HTML
 ### Production dashboard (real UI)
 _Client names, shipment IDs and sensitive figures are masked._
 
-| | |
-|---|---|
-| ![Production overview](docs/production/prod-overview.png) | ![Production FC drill-down](docs/production/prod-fc-drilldown.png) |
-| Overview: KPIs and trends | FC → client drill-down |
+### Outbound compliance
+![Outbound overview](dashboard%20images/Dashbaord%20Outbound%20page%20image%201.png)
+![Outbound FC drill-down](dashboard%20images/Dashbaord%20Outbound%20page%20image%202.png)
+![Outbound detail](dashboard%20images/Dashbaord%20Outbound%20page%20image%203.png)
 
-### Demo version (synthetic data, runs live in your browser)
-![Outbound](docs/dashboard-outbound.png)
-![Monthly trends](docs/dashboard-trends.png)
-![Week on week](docs/dashboard-wow.png)
+### Returns compliance
+![Returns overview](dashboard%20images/Dashbaord%20Return%20page%20image%201.png)
+![Returns FC drill-down](dashboard%20images/Dashbaord%20Return%20page%20image%202.png)
+![Returns detail](dashboard%20images/Dashbaord%20Return%20page%20image%203.png)
+
+### Trends and comparisons
+![Monthly trend](dashboard%20images/Dashbaord%20image%20-%20Monthly%20Trend.png)
+![Week on week comparison](dashboard%20images/Dashboard%20Week%20on%20Week%20Comparision.png)
+
+### Client view
+![Client view, outbound](dashboard%20images/Dashboard%20image%20-%20Client%20View%20OB.png)
+![Client view, returns](dashboard%20images/Dashboard%20image%20-%20Client%20View%20Returns.png)
+
+### Weekly AI email
 ![Weekly email](docs/weekly-email.png)
