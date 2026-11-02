@@ -40,118 +40,32 @@ _Client names, shipment IDs and sensitive figures are masked._
 
 <br>
 
-<h3 align="center">📦 &nbsp;Outbound Compliance</h3>
-<p align="center"><sub>Daily dispatch compliance across FCs and clients</sub></p>
-
 <br>
-
-<p align="center">
-  <img src="screenshots/outbound-1.png" width="92%" alt="Outbound overview">
-  <br><br>
-  <b>Overview</b> · KPIs, daily trend, FC summary
-</p>
+<br> <h3 align="center">📦 &nbsp;Outbound Compliance</h3> <p align="center"><sub>Daily dispatch compliance across FCs and clients</sub></p> <br> <p align="center"> <img src="dashboard%20images/outbound-1.png" width="92%" alt="Outbound overview"> <br><br> <b>Overview</b> · KPIs, daily trend, FC summary </p>
 
 <br><br>
 
-<p align="center">
-  <img src="screenshots/outbound-2.png" width="92%" alt="Outbound FC drill-down">
-  <br><br>
-  <b>FC → Client drill-down</b>
-</p>
+<p align="center"> <img src="dashboard%20images/outbound-2.png" width="92%" alt="Outbound FC drill-down"> <br><br> <b>FC → Client drill-down</b> </p>
 
 <br><br>
 
-<p align="center">
-  <img src="screenshots/outbound-3.png" width="92%" alt="Outbound detail">
-  <br><br>
-  <b>Detail view</b>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">↩️ &nbsp;Returns Compliance</h3>
-<p align="center"><sub>Return QC video-scan compliance across FCs and clients</sub></p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/returns-1.png" width="92%" alt="Returns overview">
-  <br><br>
-  <b>Overview</b> · KPIs, daily trend, FC summary
-</p>
+<p align="center"> <img src="dashboard%20images/outbound-3.png" width="92%" alt="Outbound detail"> <br><br> <b>Detail view</b> </p> <br>
+<br> <h3 align="center">↩️ &nbsp;Returns Compliance</h3> <p align="center"><sub>Return QC video-scan compliance across FCs and clients</sub></p> <br> <p align="center"> <img src="dashboard%20images/returns-1.png" width="92%" alt="Returns overview"> <br><br> <b>Overview</b> · KPIs, daily trend, FC summary </p>
 
 <br><br>
 
-<p align="center">
-  <img src="screenshots/returns-2.png" width="92%" alt="Returns FC drill-down">
-  <br><br>
-  <b>FC → Client drill-down</b>
-</p>
+<p align="center"> <img src="dashboard%20images/returns-2.png" width="92%" alt="Returns FC drill-down"> <br><br> <b>FC → Client drill-down</b> </p>
 
 <br><br>
 
-<p align="center">
-  <img src="screenshots/returns-3.png" width="92%" alt="Returns detail">
-  <br><br>
-  <b>Detail view</b>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">📈 &nbsp;Trends &amp; Comparisons</h3>
-<p align="center"><sub>Is compliance improving week on week and month on month?</sub></p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/monthly-trend.png" width="92%" alt="Monthly trend">
-  <br><br>
-  <b>Monthly trend</b>
-</p>
+<p align="center"> <img src="dashboard%20images/returns-3.png" width="92%" alt="Returns detail"> <br><br> <b>Detail view</b> </p> <br>
+<br> <h3 align="center">📈 &nbsp;Trends &amp; Comparisons</h3> <p align="center"><sub>Is compliance improving week on week and month on month?</sub></p> <br> <p align="center"> <img src="dashboard%20images/monthly-trend.png" width="92%" alt="Monthly trend"> <br><br> <b>Monthly trend</b> </p>
 
 <br><br>
 
-<p align="center">
-  <img src="screenshots/week-on-week.png" width="92%" alt="Week on week comparison">
-  <br><br>
-  <b>Week-on-week comparison</b>
-</p>
+<p align="center"> <img src="dashboard%20images/week-on-week.png" width="92%" alt="Week on week comparison"> <br><br> <b>Week-on-week comparison</b> </p> <br>
+<br> <h3 align="center">👥 &nbsp;Client View</h3> <p align="center"><sub>What each client sees for their own shipments</sub></p> <br> <table align="center"> <tr> <td align="center" width="50%"> <img src="dashboard%20images/client-view-outbound.png" alt="Client view outbound"> <br><br> <b>Outbound</b> </td> <td align="center" width="50%"> <img src="dashboard%20images/client-view-returns.png" alt="Client view returns"> <br><br> <b>Returns</b> </td> </tr> </table> <br>
+About the live demo
 
-<br>
-
----
-
-<br>
-
-<h3 align="center">👥 &nbsp;Client View</h3>
-<p align="center"><sub>What each client sees for their own shipments</sub></p>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="screenshots/client-view-outbound.png" alt="Client view outbound">
-      <br><br>
-      <b>Outbound</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="screenshots/client-view-returns.png" alt="Client view returns">
-      <br><br>
-      <b>Returns</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
+mock.js replaces the private Apps Script and BigQuery backend with a synthetic data generator that returns the same response shapes, so the real front-end runs unchanged as a static page. No login or backend is needed.
 ![Weekly email](docs/weekly-email.png)
